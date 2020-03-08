@@ -1,0 +1,2 @@
+rootProject.name='INFS3634 Individual Assignment 1'
+include ':app'
